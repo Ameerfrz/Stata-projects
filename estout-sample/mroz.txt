@@ -1,0 +1,32 @@
+\begin{table}[h]\centering \caption{Labour force participation among married women (Standard Errors in Parenthesis)}\label{mroz} \scriptsize                                     \scriptsize                                      \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcccc}                                    \hline \\               
+                &         (1)&         (2)&         (3)&         (4)\\
+\\ \hline \\ Years of  education ($\hat{\beta}_{1}$)&      0.0505&      0.0501&      0.0438&      0.0434\\
+                &    (0.0078)&    (0.0079)&    (0.0080)&    (0.0130)\\
+Unemployment rate in the county of residence in \% ($\hat{\beta}_{2}$)&     -0.0068&     -0.0068&     -0.0061&     -0.0058\\
+                &    (0.0057)&    (0.0058)&    (0.0059)&    (0.0105)\\
+Number of children younger than age 6 ($\hat{\beta}_{3}$)&     -0.2417&            &            &            \\
+                &    (0.0342)&            &            &            \\
+Number of children older than age 6  ($\hat{\beta}_{4}$)&      0.0151&            &            &            \\
+                &    (0.0166)&            &            &            \\
+\\ \hline \\     \multicolumn{5}{l}{\textbf{Children younger than age 6, reference category: no children}}  \\ \\ Dummy = 1 if has one child younger than age 6 ($\hat{\beta}_{5}$)&            &     -0.2622&            &            \\
+                &            &    (0.0497)&            &            \\
+Dummy = 1 if has two children younger than age 6 ($\hat{\beta}_{6}$)&            &     -0.4434&            &            \\
+                &            &    (0.0988)&            &            \\
+Dummy = 1 if has three children younger than age 6 ($\hat{\beta}_{7}$)&            &     -0.7010&            &            \\
+                &            &    (0.2734)&            &            \\
+\\       \multicolumn{5}{l}{\textbf{Children 6 and older, reference category: no children}}  \\ \\ Dummy = 1 if has one child age 6 or older ($\hat{\beta}_{8}$)&            &     -0.0129&            &            \\
+                &            &    (0.0458)&            &            \\
+Dummy = 1 if has two children age 6 or older ($\hat{\beta}_{9}$)&            &      0.0316&            &            \\
+                &            &    (0.0480)&            &            \\
+Dummy = 1 if has three children age 6 or older ($\hat{\beta}_{10}$)&            &      0.0462&            &            \\
+                &            &    (0.0557)&            &            \\
+\\ \hline \\Dummy = 1 if has at least one child, = 0 if no children ($\hat{\beta}_{11}$)&            &            &            &     -0.0721\\
+                &            &            &            &    (0.2228)\\
+Has at least one child * education ($\hat{\beta}_{12}$)&            &            &            &      0.0020\\
+                &            &            &            &    (0.0166)\\
+Has at least one child * unemployment rate in county ($\hat{\beta}_{13}$)&            &            &            &     -0.0006\\
+                &            &            &            &    (0.0128)\\
+
+\\ \hline \\ R-squared&      0.1052&      0.1063&      0.0414&      0.0439\\
+Sample Size     &         708&         708&         708&         708\\
+\hline\hline                                    \end{tabular*}                                   \end{table}

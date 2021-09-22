@@ -15,7 +15,7 @@ xtset ID tt, yearly
 
 
 * Pooled OLS estimator
-eststo: reg Trade Gdp Sim Rlf Rer Cee Emu Dist Bor Lan RERT Ftrade Fgdp Fsim Frlf Frer
+eststo: reg Trade Gdp Sim Rlf Rer Cee Emu Dist Bor Lan RERT 
 
 
 * Between estimator

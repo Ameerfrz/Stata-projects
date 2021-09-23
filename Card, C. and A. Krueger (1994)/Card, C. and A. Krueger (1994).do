@@ -3,7 +3,7 @@ else {
 
 
 // PUT YOUR DIRECTORY HERE
-cd  "E:\Economics\Labor\assignments"
+cd  "E:\Economics\Labor\Card, C. and A. Krueger (1994)"
 
 }
 

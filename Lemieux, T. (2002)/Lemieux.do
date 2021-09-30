@@ -34,8 +34,7 @@ drop if educ90==0
 egen edage = group(educ90 age_12)
 
 
-// NOTE: the weight was called fweight in the 2000 data. The name of the weight might be different in the 2019 data
-
+// NOTE: the weight was called fweight in the 2000 data. 
 
 
 //First deal with the xbeta side of things

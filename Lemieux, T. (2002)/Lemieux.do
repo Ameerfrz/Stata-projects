@@ -16,7 +16,7 @@ use "lfs2000.dta", clear
 ***Women
 
 
-// double check what the units are in the 2019 data
+// generating the log wage variable
 gen lwage = ln(hrlyearn/100)
 
 
